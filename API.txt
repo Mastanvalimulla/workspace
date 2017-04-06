@@ -8,7 +8,7 @@
 23
 44444444
 KKK
-
+hjkkhhhgjbmbh
 
 * Add remote branch references (Grit::Remote)
 * Add status - what is modified, staged
